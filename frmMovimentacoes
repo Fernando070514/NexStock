@@ -1,0 +1,12 @@
+namespace Movimentações.UI
+{
+    public partial class frmMovimentacoes : Form
+    {
+        public frmMovimentacoes()
+        {
+            InitializeComponent();
+        }
+
+
+    }
+}
